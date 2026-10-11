@@ -6,7 +6,11 @@ This project was created to practice Python GUI development, file handling, even
 
 ## 📸 Preview
 
-![Text Editor Screenshot](assets/screenshot.png)
+<img width="850" height="510" alt="image" src="https://github.com/user-attachments/assets/74a4b6e0-3735-4673-968f-d10ee9c6bf4d" />
+<img width="857" height="510" alt="image" src="https://github.com/user-attachments/assets/e01af12e-da2f-43db-9c6d-cb0be3c7b149" />
+<img width="848" height="505" alt="image" src="https://github.com/user-attachments/assets/812c9bce-1803-49a0-9fde-494a9a60415c" />
+
+
 
 ## ✨ Features
 
