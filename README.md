@@ -48,7 +48,7 @@ python-text-editor/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/python-text-editor.git](https://github.com/kuleszamikolaj7-cell/python-text-editor.git
+git clone https://github.com/kuleszamikolaj7-cell/python-text-editor.git
 ```
 
 ### 2. Open the project folder
